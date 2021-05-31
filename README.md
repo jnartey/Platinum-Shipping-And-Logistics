@@ -1,72 +1,39 @@
-# Platinum Shipping And Logistics
+CakePHP
+=======
 
-PSL provides freight forwarding services and logistics solutions to and from Ghana and Worldwide destinations.
+[![CakePHP](http://cakephp.org/img/cake-logo.png)](http://www.cakephp.org)
 
-## Getting Started
+CakePHP is a rapid development framework for PHP which uses commonly known design patterns like Active Record, Association Data Mapping, Front Controller and MVC.
+Our primary goal is to provide a structured framework that enables PHP users at all levels to rapidly develop robust web applications, without any loss to flexibility.
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Some Handy Links
+----------------
 
-### Prerequisites
+[CakePHP](http://www.cakephp.org) - The rapid development PHP framework
 
-* A running webserver on your PC 
-* PHP version 5.4 or 5.6
-* MySQL 4+
+[Cookbook](http://book.cakephp.org) - THE Cake user documentation; start learning here!
 
-### Installing
+[Plugins](http://plugins.cakephp.org/) - A repository of extensions to the framework
 
-* Download or clone extract into your web home directory 
-* refer to CakePHP manual (https://book.cakephp.org/2.0/en/installation.html) for installation
-* Database included
+[The Bakery](http://bakery.cakephp.org) - Tips, tutorials and articles
 
-```
-/database
-```
+[API](http://api.cakephp.org) - A reference to Cake's classes
 
-## Running the tests
+[CakePHP TV](http://tv.cakephp.org) - Screen casts from events and video tutorials
 
-None
+[The Cake Software Foundation](http://cakefoundation.org/) - promoting development related to CakePHP
 
-### Break down into end to end tests
+Get Support!
+------------
 
-None
+[Our Google Group](http://groups.google.com/group/cake-php) - community mailing list and forum
 
-```
+[#cakephp](http://webchat.freenode.net/?channels=#cakephp) on irc.freenode.net - Come chat with us, we have cake.
 
-```
+[Q & A](http://ask.cakephp.org/) - Ask questions here, all questions welcome
 
-### And coding style tests
+[Lighthouse](http://cakephp.lighthouseapp.com/) - Got issues? Please tell us!
 
-none
+[![Bake Status](https://secure.travis-ci.org/cakephp/cakephp.png?branch=master)](http://travis-ci.org/cakephp/cakephp)
 
-```
-
-```
-
-## Deployment
-
-Refer to installation
-
-## Built With
-
-* [CakePHP 2.x](https://www.cakephp.org) - PHP MVC framework
-* [FancyBox](http://fancyapps.com/fancybox/) - Javascript framework
-* [JQuery](https://jquery.com/) - Javascript framework
-* [TweenMax](https://greensock.com/tweenmax) - Javascript framework from GreenSock
-* [Font Awesome](https://greensock.com/tweenmax) - Font Script
-* [Zurb Foundation](https://foundation.zurb.com/) - The most advanced responsive front-end framework
-
-## Contributing
-
-None
-
-## Versioning
-
- 
-
-## Authors
-
-* **Jacob Nartey** - *Web Developer*
-
-## Acknowledgments
-
-* Fifth Light Media LLc
+![Cake Power](https://raw.github.com/cakephp/cakephp/master/lib/Cake/Console/Templates/skel/webroot/img/cake.power.gif)
